@@ -78,5 +78,5 @@ Tienes una idea o necesitas digitalizar tu negocio? Escribenos y lo hacemos real
 ---
 
 <div align="center">
-  <i>Construido con cafe y muchas lineas de codigo por Kriss Paz - Kpixel</i>i>
+  <i>Construido con cafe y muchas lineas de codigo por Kriss Paz - Kpixel</ii>
 </div></i>
